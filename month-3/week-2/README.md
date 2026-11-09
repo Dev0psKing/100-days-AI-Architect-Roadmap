@@ -32,3 +32,7 @@ Never commit real credentials. Make the pipeline fail when tests or required eva
 ## Output
 
 Every push can install dependencies, run tests, run evaluations, and build the application image.
+
+---
+
+[← Previous: Week 1 — Backend and API](../week-1/README.md) | [Next: Week 3 — Observability and Cost Tracking →](../week-3/README.md)

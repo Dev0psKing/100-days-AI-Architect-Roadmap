@@ -31,3 +31,7 @@ Record the prompt, model, parameters, response, token usage, and observations fo
 ## Output
 
 Write a markdown note titled **How LLMs Work in Simple Words** and document five lessons from the experiments.
+
+---
+
+[Next: Week 2 — Prompting and Structured Outputs →](../week-2/README.md)

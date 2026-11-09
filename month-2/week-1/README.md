@@ -37,3 +37,7 @@ Compare at least two chunking or retrieval configurations and record the tradeof
 ## Output
 
 Produce a basic retrieval evaluation report with failures, likely causes, and the next improvement to make.
+
+---
+
+[← Previous: Month 1, Week 4 — RAG v1](../../month-1/week-4/README.md) | [Next: Week 2 — Tool Calling and MCP →](../week-2/README.md)

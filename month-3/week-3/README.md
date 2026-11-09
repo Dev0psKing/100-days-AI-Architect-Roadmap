@@ -35,3 +35,7 @@ Use correlation IDs so one request can be followed across retrieval, model calls
 ## Output
 
 A dashboard or log view that explains what happened inside the AI system and how much each request cost.
+
+---
+
+[← Previous: Week 2 — Docker and CI/CD](../week-2/README.md) | [Next: Week 4 — Security and Guardrails →](../week-4/README.md)

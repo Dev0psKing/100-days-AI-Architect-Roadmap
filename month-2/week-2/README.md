@@ -36,3 +36,7 @@ Rules:
 ## Output
 
 The assistant can choose between retrieval and tool use, with tests for valid arguments, invalid arguments, denied actions, and confirmation flow.
+
+---
+
+[← Previous: Week 1 — RAG Quality](../week-1/README.md) | [Next: Week 3 — Agent Workflows →](../week-3/README.md)

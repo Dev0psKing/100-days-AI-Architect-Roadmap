@@ -32,3 +32,7 @@ The endpoint should be `GET /search?q=` and return the top matching chunks with 
 ## Output
 
 Document the ingestion pipeline, chunking decisions, vector database choice, and examples of good and bad search results.
+
+---
+
+[← Previous: Week 2 — Prompting and Structured Outputs](../week-2/README.md) | [Next: Week 4 — RAG v1 →](../week-4/README.md)

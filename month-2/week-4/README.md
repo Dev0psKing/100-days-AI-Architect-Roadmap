@@ -33,3 +33,7 @@ Run the suite against a known baseline. Store results so future changes can be c
 ## Day 60 output
 
 An AI system with tests, not just a demo. Include a regression report and define minimum acceptable scores for the capstone.
+
+---
+
+[← Previous: Week 3 — Agent Workflows](../week-3/README.md) | [Next: Month 3, Week 1 — Backend and API →](../../month-3/week-1/README.md)

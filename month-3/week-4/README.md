@@ -35,3 +35,7 @@ During Days 85–90, fix release-blocking issues, run the full evaluation suite,
 ## Output
 
 An application that is harder to break and safer to demo, with documented threats, mitigations, and known limitations.
+
+---
+
+[← Previous: Week 3 — Observability and Cost Tracking](../week-3/README.md) | [Capstone: Production AI Assistant →](../../capstone/README.md)

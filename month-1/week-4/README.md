@@ -29,3 +29,7 @@ Turn semantic search into a chat application. It must:
 ## Day 30 output
 
 A working local **Chat with My Docs** application, plus a short note explaining one retrieval failure and how you diagnosed it.
+
+---
+
+[← Previous: Week 3 — Embeddings and Semantic Search](../week-3/README.md) | [Next: Month 2, Week 1 — RAG Quality →](../../month-2/week-1/README.md)

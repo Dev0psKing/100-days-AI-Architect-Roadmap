@@ -34,3 +34,7 @@ Add explicit state fields for the question, route, retrieved context, answer, qu
 ## Output
 
 A real multi-step assistant, not a single prompt wrapper. Document its nodes, transitions, retry limit, and failure paths.
+
+---
+
+[← Previous: Week 2 — Tool Calling and MCP](../week-2/README.md) | [Next: Week 4 — Evals and Reliability →](../week-4/README.md)

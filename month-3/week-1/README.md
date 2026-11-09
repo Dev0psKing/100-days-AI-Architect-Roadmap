@@ -31,3 +31,7 @@ Validate inputs, return consistent errors, stream chat responses where appropria
 ## Output
 
 The assistant runs behind a clean API with documented request and response examples.
+
+---
+
+[← Previous: Month 2, Week 4 — Evals and Reliability](../../month-2/week-4/README.md) | [Next: Week 2 — Docker and CI/CD →](../week-2/README.md)

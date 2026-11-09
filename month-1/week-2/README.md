@@ -41,3 +41,7 @@ Create a reusable prompt checklist:
 4. Constraints
 5. Output format
 6. Failure behavior
+
+---
+
+[← Previous: Week 1 — LLM Mental Model](../week-1/README.md) | [Next: Week 3 — Embeddings and Semantic Search →](../week-3/README.md)
