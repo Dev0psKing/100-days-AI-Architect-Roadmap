@@ -1,4 +1,4 @@
-# 🔐 Week 12 — Security and Guardrails
+# 🔐 Week 12 - Security and Guardrails
 
 > **Days 82–90 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
@@ -35,14 +35,14 @@ You can threat-model an AI application, test prompt injection, restrict tools, p
 
 ## 🔗 Core resources
 
-- [OWASP — Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
-- [OWASP — GenAI Security Project](https://genai.owasp.org/)
-- [OpenAI — Safety Best Practices](https://platform.openai.com/docs/guides/safety-best-practices)
-- [Microsoft — AI Red Teaming](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-team)
-- [Google — Secure AI Framework](https://saif.google/)
-- [NIST — AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- [PyRIT — AI Red Teaming](https://github.com/Azure/PyRIT)
-- [Garak — LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
+- [OWASP - Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
+- [OWASP - GenAI Security Project](https://genai.owasp.org/)
+- [OpenAI - Safety Best Practices](https://platform.openai.com/docs/guides/safety-best-practices)
+- [Microsoft - AI Red Teaming](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-team)
+- [Google - Secure AI Framework](https://saif.google/)
+- [NIST - AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [PyRIT - AI Red Teaming](https://github.com/Azure/PyRIT)
+- [Garak - LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
 
 ## 🧪 Build lab: security and launch gate
 
@@ -70,4 +70,4 @@ The application has explicit defenses, measurable security tests, documented lim
 
 ---
 
-[← Previous: Week 3 — Observability and Cost Tracking](../week-3/README.md) | [Capstone: Production AI Assistant →](../../capstone/README.md)
+[← Previous: Week 3 - Observability and Cost Tracking](../week-3/README.md) | [Capstone: Production AI Assistant →](../../capstone/README.md)

@@ -1,4 +1,4 @@
-# 🌐 Week 9 — Backend and API
+# 🌐 Week 9 - Backend and API
 
 > **Days 61–67 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜
 
@@ -33,11 +33,11 @@ You can expose the assistant through documented endpoints, validate requests, ha
 
 ## 🔗 Core resources
 
-- [FastAPI — First Steps](https://fastapi.tiangolo.com/tutorial/first-steps/)
-- [FastAPI — User Guide](https://fastapi.tiangolo.com/tutorial/)
+- [FastAPI - First Steps](https://fastapi.tiangolo.com/tutorial/first-steps/)
+- [FastAPI - User Guide](https://fastapi.tiangolo.com/tutorial/)
 - [OpenAPI Specification](https://spec.openapis.org/oas/latest.html)
-- [Pydantic — Documentation](https://docs.pydantic.dev/latest/)
-- [OWASP — API Security Top 10](https://owasp.org/API-Security/)
+- [Pydantic - Documentation](https://docs.pydantic.dev/latest/)
+- [OWASP - API Security Top 10](https://owasp.org/API-Security/)
 - [HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 ## 🧪 Build lab: production-style API
@@ -66,4 +66,4 @@ A new developer can start the service, call every documented endpoint, understan
 
 ---
 
-[← Previous: Month 2, Week 4 — Evals and Reliability](../../month-2/week-4/README.md) | [Next: Week 2 — Docker and CI/CD →](../week-2/README.md)
+[← Previous: Month 2, Week 4 - Evals and Reliability](../../month-2/week-4/README.md) | [Next: Week 2 - Docker and CI/CD →](../week-2/README.md)

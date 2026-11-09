@@ -1,4 +1,4 @@
-# Capstone — Production AI Assistant
+# Capstone - Production AI Assistant
 
 Build one production-ready AI assistant over your own documentation, PDFs, repository, or cloud reports. Every week of the roadmap should improve this same project.
 

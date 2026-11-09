@@ -1,4 +1,4 @@
-# 🛠️ Week 6 — Tool Calling and MCP
+# 🛠️ Week 6 - Tool Calling and MCP
 
 > **Days 38–44 · Systems · Progress:** 🟦🟦🟦🟦🟦🟦⬜
 
@@ -33,12 +33,12 @@ You can define typed tools, validate arguments, distinguish data from instructio
 
 ## 🔗 Core resources
 
-- [OpenAI — Function Calling](https://developers.openai.com/api/docs/guides/function-calling)
-- [OpenAI — Tools Guide](https://developers.openai.com/api/docs/guides/tools)
-- [Model Context Protocol — Introduction](https://modelcontextprotocol.io/introduction)
-- [MCP — Official Documentation](https://modelcontextprotocol.io/docs)
-- [MCP — Example Servers](https://github.com/modelcontextprotocol/servers)
-- [Anthropic — Tool Use](https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview)
+- [OpenAI - Function Calling](https://developers.openai.com/api/docs/guides/function-calling)
+- [OpenAI - Tools Guide](https://developers.openai.com/api/docs/guides/tools)
+- [Model Context Protocol - Introduction](https://modelcontextprotocol.io/introduction)
+- [MCP - Official Documentation](https://modelcontextprotocol.io/docs)
+- [MCP - Example Servers](https://github.com/modelcontextprotocol/servers)
+- [Anthropic - Tool Use](https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview)
 
 ## 🧪 Build lab: safe assistant tools
 
@@ -66,4 +66,4 @@ Every tool has a clear contract, limited permissions, observable execution, expl
 
 ---
 
-[← Previous: Week 1 — RAG Quality](../week-1/README.md) | [Next: Week 3 — Agent Workflows →](../week-3/README.md)
+[← Previous: Week 1 - RAG Quality](../week-1/README.md) | [Next: Week 3 - Agent Workflows →](../week-3/README.md)

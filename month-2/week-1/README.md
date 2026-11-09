@@ -1,4 +1,4 @@
-# 📈 Week 5 — RAG Quality
+# 📈 Week 5 - RAG Quality
 
 > **Days 31–37 · Systems · Progress:** 🟦🟦🟦🟦🟦⬜⬜
 
@@ -32,11 +32,11 @@ You can build a retrieval dataset, compare strategies, calculate ranking metrics
 
 ## 🔗 Core resources
 
-- [Ragas — RAG Evaluation](https://docs.ragas.io/en/stable/getstarted/rag_eval/)
-- [Qdrant — Hybrid Queries](https://qdrant.tech/documentation/concepts/hybrid-queries/)
-- [Qdrant — Search](https://qdrant.tech/documentation/concepts/search/)
-- [Pinecone — RAG Evaluation](https://www.pinecone.io/learn/series/rag/rag-evaluation/)
-- [Microsoft — RAG Quality](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
+- [Ragas - RAG Evaluation](https://docs.ragas.io/en/stable/getstarted/rag_eval/)
+- [Qdrant - Hybrid Queries](https://qdrant.tech/documentation/concepts/hybrid-queries/)
+- [Qdrant - Search](https://qdrant.tech/documentation/concepts/search/)
+- [Pinecone - RAG Evaluation](https://www.pinecone.io/learn/series/rag/rag-evaluation/)
+- [Microsoft - RAG Quality](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
 - [BEIR Benchmark](https://github.com/beir-cellar/beir)
 
 ## 🧪 Build lab: retrieval scorecard
@@ -64,4 +64,4 @@ You can demonstrate that a retrieval change improved a defined metric without ca
 
 ---
 
-[← Previous: Month 1, Week 4 — RAG v1](../../month-1/week-4/README.md) | [Next: Week 2 — Tool Calling and MCP →](../week-2/README.md)
+[← Previous: Month 1, Week 4 - RAG v1](../../month-1/week-4/README.md) | [Next: Week 2 - Tool Calling and MCP →](../week-2/README.md)

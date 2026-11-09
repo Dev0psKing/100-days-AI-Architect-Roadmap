@@ -1,4 +1,4 @@
-# 🧠 Week 1 — LLM Mental Model
+# 🧠 Week 1 - LLM Mental Model
 
 > **Days 1–7 · Foundations · Progress:** 🟦⬜⬜⬜⬜⬜⬜
 
@@ -33,11 +33,11 @@ By the end of this week you can explain tokens, context windows, next-token pred
 
 ## 🔗 Core resources
 
-- [DeepLearning.AI — How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
-- [Andrej Karpathy — Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [DeepLearning.AI - How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
+- [Andrej Karpathy - Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1)
-- [OpenAI — Key Concepts](https://platform.openai.com/docs/concepts)
-- [Anthropic — Models Overview](https://docs.anthropic.com/en/docs/about-claude/models)
+- [OpenAI - Key Concepts](https://platform.openai.com/docs/concepts)
+- [Anthropic - Models Overview](https://docs.anthropic.com/en/docs/about-claude/models)
 - [tiktoken tokenizer](https://github.com/openai/tiktoken)
 
 ## 🧪 Build lab: `llm-playground`
@@ -63,8 +63,8 @@ Create a repeatable script or notebook that records model, prompt, parameters, t
 ## 🚀 Stretch roadmap
 
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [Stanford CS25 — Transformers United](https://web.stanford.edu/class/cs25/)
-- [Full Stack Deep Learning — LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
+- [Stanford CS25 - Transformers United](https://web.stanford.edu/class/cs25/)
+- [Full Stack Deep Learning - LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 
 ## 🏁 Definition of done
 
@@ -72,4 +72,4 @@ You can predict how context length, sampling, and instructions will affect an ou
 
 ---
 
-[Next: Week 2 — Prompting and Structured Outputs →](../week-2/README.md)
+[Next: Week 2 - Prompting and Structured Outputs →](../week-2/README.md)

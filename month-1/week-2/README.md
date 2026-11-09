@@ -1,4 +1,4 @@
-# ✍️ Week 2 — Prompting and Structured Outputs
+# ✍️ Week 2 - Prompting and Structured Outputs
 
 > **Days 8–14 · Foundations · Progress:** 🟦🟦⬜⬜⬜⬜⬜
 
@@ -33,11 +33,11 @@ You can write reusable prompts, select examples, validate structured responses, 
 
 ## 🔗 Core resources
 
-- [OpenAI — Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-- [OpenAI — Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs)
-- [Anthropic — Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
-- [Google — Prompt Design](https://ai.google.dev/gemini-api/docs/prompting-strategies)
-- [Microsoft — Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
+- [OpenAI - Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [OpenAI - Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs)
+- [Anthropic - Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- [Google - Prompt Design](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+- [Microsoft - Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
 - [JSON Schema](https://json-schema.org/learn/getting-started-step-by-step)
 
 ## 🧪 Build lab: prompt test harness
@@ -65,4 +65,4 @@ A new prompt can be reviewed like code: its contract, examples, schema, failure 
 
 ---
 
-[← Previous: Week 1 — LLM Mental Model](../week-1/README.md) | [Next: Week 3 — Embeddings and Semantic Search →](../week-3/README.md)
+[← Previous: Week 1 - LLM Mental Model](../week-1/README.md) | [Next: Week 3 - Embeddings and Semantic Search →](../week-3/README.md)

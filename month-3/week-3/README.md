@@ -1,4 +1,4 @@
-# 📡 Week 11 — Observability and Cost Tracking
+# 📡 Week 11 - Observability and Cost Tracking
 
 > **Days 75–81 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜
 
@@ -33,11 +33,11 @@ You can trace a request across retrieval, model calls, tools, evaluation, and re
 
 ## 🔗 Core resources
 
-- [OpenTelemetry — Documentation](https://opentelemetry.io/docs/)
-- [OpenTelemetry — Python](https://opentelemetry.io/docs/languages/python/)
-- [LangSmith — Observability](https://docs.langchain.com/langsmith/observability)
-- [Grafana — Observability](https://grafana.com/docs/grafana/latest/)
-- [Prometheus — Overview](https://prometheus.io/docs/introduction/overview/)
+- [OpenTelemetry - Documentation](https://opentelemetry.io/docs/)
+- [OpenTelemetry - Python](https://opentelemetry.io/docs/languages/python/)
+- [LangSmith - Observability](https://docs.langchain.com/langsmith/observability)
+- [Grafana - Observability](https://grafana.com/docs/grafana/latest/)
+- [Prometheus - Overview](https://prometheus.io/docs/introduction/overview/)
 - [OpenLLMetry](https://github.com/traceloop/openllmetry)
 
 ## 🧪 Build lab: explainable request
@@ -62,8 +62,8 @@ Track prompt tokens, completion tokens, total cost, tool calls, retrieval latenc
 
 ## 🏁 Definition of done
 
-An operator can investigate a slow, expensive, incorrect, or failed response without reproducing it blindly—and logs do not expose secrets.
+An operator can investigate a slow, expensive, incorrect, or failed response without reproducing it blindly-and logs do not expose secrets.
 
 ---
 
-[← Previous: Week 2 — Docker and CI/CD](../week-2/README.md) | [Next: Week 4 — Security and Guardrails →](../week-4/README.md)
+[← Previous: Week 2 - Docker and CI/CD](../week-2/README.md) | [Next: Week 4 - Security and Guardrails →](../week-4/README.md)

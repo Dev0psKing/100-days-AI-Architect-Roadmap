@@ -1,4 +1,4 @@
-# 🔎 Week 3 — Embeddings and Semantic Search
+# 🔎 Week 3 - Embeddings and Semantic Search
 
 > **Days 15–21 · Foundations · Progress:** 🟦🟦🟦⬜⬜⬜⬜
 
@@ -33,12 +33,12 @@ You can ingest documents, split them into meaningful chunks, embed them, store m
 
 ## 🔗 Core resources
 
-- [OpenAI — Embeddings](https://developers.openai.com/api/docs/guides/embeddings)
-- [Qdrant — Documentation](https://qdrant.tech/documentation/)
-- [Pinecone — Vector Database Learning Center](https://www.pinecone.io/learn/)
-- [Weaviate — Vector Search Concepts](https://weaviate.io/developers/weaviate/concepts/vector-index)
-- [LlamaIndex — Document Management](https://developers.llamaindex.ai/python/framework/module_guides/loading/documents_and_nodes/)
-- [LangChain — Text Splitters](https://python.langchain.com/docs/concepts/text_splitters/)
+- [OpenAI - Embeddings](https://developers.openai.com/api/docs/guides/embeddings)
+- [Qdrant - Documentation](https://qdrant.tech/documentation/)
+- [Pinecone - Vector Database Learning Center](https://www.pinecone.io/learn/)
+- [Weaviate - Vector Search Concepts](https://weaviate.io/developers/weaviate/concepts/vector-index)
+- [LlamaIndex - Document Management](https://developers.llamaindex.ai/python/framework/module_guides/loading/documents_and_nodes/)
+- [LangChain - Text Splitters](https://python.langchain.com/docs/concepts/text_splitters/)
 
 ## 🧪 Build lab: ingestion and search pipeline
 
@@ -54,10 +54,10 @@ Use 50–100 documents from the capstone domain. Build a loader, normalizer, chu
 
 ## 🚀 Stretch roadmap
 
-- [Qdrant — Filtering](https://qdrant.tech/documentation/concepts/filtering/)
-- [Qdrant — Hybrid Queries](https://qdrant.tech/documentation/concepts/hybrid-queries/)
-- [Voyage AI — Embeddings](https://docs.voyageai.com/docs/embeddings)
-- [NVIDIA — Retrieval-Augmented Generation](https://developer.nvidia.com/blog/retrieval-augmented-generation-connecting-large-language-models-to-external-knowledge/)
+- [Qdrant - Filtering](https://qdrant.tech/documentation/concepts/filtering/)
+- [Qdrant - Hybrid Queries](https://qdrant.tech/documentation/concepts/hybrid-queries/)
+- [Voyage AI - Embeddings](https://docs.voyageai.com/docs/embeddings)
+- [NVIDIA - Retrieval-Augmented Generation](https://developer.nvidia.com/blog/retrieval-augmented-generation-connecting-large-language-models-to-external-knowledge/)
 
 ## 🏁 Definition of done
 
@@ -65,4 +65,4 @@ A teammate can run one documented command to ingest the corpus, search it, and t
 
 ---
 
-[← Previous: Week 2 — Prompting and Structured Outputs](../week-2/README.md) | [Next: Week 4 — RAG v1 →](../week-4/README.md)
+[← Previous: Week 2 - Prompting and Structured Outputs](../week-2/README.md) | [Next: Week 4 - RAG v1 →](../week-4/README.md)

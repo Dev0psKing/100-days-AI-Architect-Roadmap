@@ -1,4 +1,4 @@
-# 📚 Week 4 — RAG v1
+# 📚 Week 4 - RAG v1
 
 > **Days 22–30 · Foundations · Progress:** 🟦🟦🟦🟦⬜⬜⬜
 
@@ -35,12 +35,12 @@ You can design a RAG request path, select context, generate citations, handle no
 
 ## 🔗 Core resources
 
-- [Microsoft — RAG Concepts](https://learn.microsoft.com/en-us/azure/foundry/concepts/retrieval-augmented-generation)
-- [LangChain — Build a RAG Agent](https://python.langchain.com/docs/tutorials/rag/)
-- [LlamaIndex — Starter Tutorial](https://developers.llamaindex.ai/python/framework/getting_started/starter_example/)
-- [Anthropic — Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
-- [OpenAI Cookbook — Question Answering with Embeddings](https://cookbook.openai.com/examples/question_answering_using_embeddings)
-- [RAGAS — RAG Evaluation](https://docs.ragas.io/en/stable/getstarted/rag_eval/)
+- [Microsoft - RAG Concepts](https://learn.microsoft.com/en-us/azure/foundry/concepts/retrieval-augmented-generation)
+- [LangChain - Build a RAG Agent](https://python.langchain.com/docs/tutorials/rag/)
+- [LlamaIndex - Starter Tutorial](https://developers.llamaindex.ai/python/framework/getting_started/starter_example/)
+- [Anthropic - Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
+- [OpenAI Cookbook - Question Answering with Embeddings](https://cookbook.openai.com/examples/question_answering_using_embeddings)
+- [RAGAS - RAG Evaluation](https://docs.ragas.io/en/stable/getstarted/rag_eval/)
 
 ## 🧪 Build lab: Chat with My Docs
 
@@ -65,8 +65,8 @@ The app must accept a question, retrieve top chunks, pass only relevant context,
 
 ## 🏁 Definition of done
 
-A user can ask questions about the selected corpus and receive a useful answer with inspectable evidence—or a clear, honest not-found response.
+A user can ask questions about the selected corpus and receive a useful answer with inspectable evidence-or a clear, honest not-found response.
 
 ---
 
-[← Previous: Week 3 — Embeddings and Semantic Search](../week-3/README.md) | [Next: Month 2, Week 1 — RAG Quality →](../../month-2/week-1/README.md)
+[← Previous: Week 3 - Embeddings and Semantic Search](../week-3/README.md) | [Next: Month 2, Week 1 - RAG Quality →](../../month-2/week-1/README.md)

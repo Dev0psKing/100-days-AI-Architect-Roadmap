@@ -1,4 +1,4 @@
-# 🐳 Week 10 — Docker and CI/CD
+# 🐳 Week 10 - Docker and CI/CD
 
 > **Days 68–74 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜
 
@@ -33,12 +33,12 @@ You can containerize the app, manage configuration safely, run tests in CI, enfo
 
 ## 🔗 Core resources
 
-- [Docker — Get Started](https://docs.docker.com/get-started/)
-- [Docker — Build Best Practices](https://docs.docker.com/build/building/best-practices/)
-- [GitHub Actions — Quickstart](https://docs.github.com/en/actions/get-started/quickstart)
-- [GitHub Actions — Security Hardening](https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions)
-- [Trivy — Container Scanning](https://trivy.dev/latest/)
-- [SLSA — Supply Chain Security](https://slsa.dev/)
+- [Docker - Get Started](https://docs.docker.com/get-started/)
+- [Docker - Build Best Practices](https://docs.docker.com/build/building/best-practices/)
+- [GitHub Actions - Quickstart](https://docs.github.com/en/actions/get-started/quickstart)
+- [GitHub Actions - Security Hardening](https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions)
+- [Trivy - Container Scanning](https://trivy.dev/latest/)
+- [SLSA - Supply Chain Security](https://slsa.dev/)
 
 ## 🧪 Build lab: release pipeline
 
@@ -66,4 +66,4 @@ A clean checkout can build and test the same artifact that is deployed, and the 
 
 ---
 
-[← Previous: Week 1 — Backend and API](../week-1/README.md) | [Next: Week 3 — Observability and Cost Tracking →](../week-3/README.md)
+[← Previous: Week 1 - Backend and API](../week-1/README.md) | [Next: Week 3 - Observability and Cost Tracking →](../week-3/README.md)

@@ -1,4 +1,4 @@
-# 🤖 Week 7 — Agent Workflows
+# 🤖 Week 7 - Agent Workflows
 
 > **Days 45–51 · Systems · Progress:** 🟦🟦🟦🟦🟦🟦🟦
 
@@ -33,12 +33,12 @@ You can model state, route work, limit retries, add human approval, and explain 
 
 ## 🔗 Core resources
 
-- [LangGraph — Overview](https://docs.langchain.com/oss/python/langgraph/overview)
-- [LangGraph — Workflows and Agents](https://docs.langchain.com/oss/python/langgraph/workflows-agents)
-- [Hugging Face — Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
-- [Microsoft — AutoGen](https://microsoft.github.io/autogen/stable/)
-- [Temporal — Durable Execution](https://docs.temporal.io/)
-- [OpenAI — Agents SDK](https://openai.github.io/openai-agents-python/)
+- [LangGraph - Overview](https://docs.langchain.com/oss/python/langgraph/overview)
+- [LangGraph - Workflows and Agents](https://docs.langchain.com/oss/python/langgraph/workflows-agents)
+- [Hugging Face - Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+- [Microsoft - AutoGen](https://microsoft.github.io/autogen/stable/)
+- [Temporal - Durable Execution](https://docs.temporal.io/)
+- [OpenAI - Agents SDK](https://openai.github.io/openai-agents-python/)
 
 ## 🧪 Build lab: quality-gated LangGraph flow
 
@@ -66,4 +66,4 @@ For any run, you can explain what happened, why each route was selected, where i
 
 ---
 
-[← Previous: Week 2 — Tool Calling and MCP](../week-2/README.md) | [Next: Week 4 — Evals and Reliability →](../week-4/README.md)
+[← Previous: Week 2 - Tool Calling and MCP](../week-2/README.md) | [Next: Week 4 - Evals and Reliability →](../week-4/README.md)

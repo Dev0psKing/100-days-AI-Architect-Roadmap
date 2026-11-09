@@ -1,4 +1,4 @@
-# 📊 Week 8 — Evals and Reliability
+# 📊 Week 8 - Evals and Reliability
 
 > **Days 52–60 · Systems · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦
 
@@ -35,12 +35,12 @@ You can create evaluation cases, choose metrics, separate deterministic tests fr
 
 ## 🔗 Core resources
 
-- [OpenAI — Evals](https://platform.openai.com/docs/guides/evals)
-- [LangSmith — Evaluation](https://docs.langchain.com/langsmith/evaluation)
-- [DeepEval — Getting Started](https://deepeval.com/docs/getting-started)
-- [Ragas — Metrics](https://docs.ragas.io/en/stable/concepts/metrics/)
-- [MLflow — LLM Evaluation](https://mlflow.org/docs/latest/llms/llm-evaluate/)
-- [Promptfoo — Red Teaming](https://www.promptfoo.dev/docs/red-team/)
+- [OpenAI - Evals](https://platform.openai.com/docs/guides/evals)
+- [LangSmith - Evaluation](https://docs.langchain.com/langsmith/evaluation)
+- [DeepEval - Getting Started](https://deepeval.com/docs/getting-started)
+- [Ragas - Metrics](https://docs.ragas.io/en/stable/concepts/metrics/)
+- [MLflow - LLM Evaluation](https://mlflow.org/docs/latest/llms/llm-evaluate/)
+- [Promptfoo - Red Teaming](https://www.promptfoo.dev/docs/red-team/)
 
 ## 🧪 Build lab: evaluation suite
 
@@ -68,4 +68,4 @@ A release can be accepted or rejected using documented quality, safety, latency,
 
 ---
 
-[← Previous: Week 3 — Agent Workflows](../week-3/README.md) | [Next: Month 3, Week 1 — Backend and API →](../../month-3/week-1/README.md)
+[← Previous: Week 3 - Agent Workflows](../week-3/README.md) | [Next: Month 3, Week 1 - Backend and API →](../../month-3/week-1/README.md)
