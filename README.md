@@ -49,12 +49,12 @@ Do not start ten projects. Build one project and improve it every week.
 
 | Stage | Days | Focus | Milestone |
 | --- | ---: | --- | --- |
-| Foundations | 1–30 | LLMs, prompting, embeddings, semantic search, and RAG | Local Chat with My Docs app |
-| Systems | 31–60 | RAG quality, tools, MCP, agent workflows, and evaluations | Tested multi-step AI system |
-| Production | 61–90 | APIs, containers, CI/CD, observability, cost, and security | Deployable production-style app |
-| Launch | 85–90 | Demo, case study, architecture, limitations, and roadmap | Live AI app and portfolio evidence |
+| Foundations | 1 – 30 | LLMs, prompting, embeddings, semantic search, and RAG | Local Chat with My Docs app |
+| Systems | 31 – 60 | RAG quality, tools, MCP, agent workflows, and evaluations | Tested multi-step AI system |
+| Production | 61 – 90 | APIs, containers, CI/CD, observability, cost, and security | Deployable production-style app |
+| Launch | 85 – 90 | Demo, case study, architecture, limitations, and roadmap | Live AI app and portfolio evidence |
 
-## Month 1 - Foundations: Days 1–30
+## Month 1 - Foundations: Days 1 – 30
 
 Understand how LLM applications actually work before building agents.
 
@@ -65,7 +65,7 @@ Understand how LLM applications actually work before building agents.
 
 **Month 1 milestone:** A local Chat with My Docs application that retrieves relevant chunks, answers with citations, and refuses to invent unsupported facts.
 
-## Month 2 - Systems: Days 31–60
+## Month 2 - Systems: Days 31 – 60
 
 Move from scripts to a real AI system with safe tools, stateful workflows, and measurable reliability.
 
@@ -76,7 +76,7 @@ Move from scripts to a real AI system with safe tools, stateful workflows, and m
 
 **Month 2 milestone:** An AI system with tools, workflows, automated evaluations, regression tests, and documented quality thresholds.
 
-## Month 3 - Production: Days 61–90
+## Month 3 - Production: Days 61 – 90
 
 Ship something real and demonstrate production judgment.
 
