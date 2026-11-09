@@ -37,11 +37,11 @@ flowchart TD
 
 ## Daily rhythm
 
-Commit **90–120 minutes daily**:
+Commit **90 - 120 minutes daily**:
 
 - **20 minutes:** Read or watch.
-- **60–80 minutes:** Build and test.
-- **10–20 minutes:** Write notes, errors, decisions, and next steps.
+- **60 - 80 minutes:** Build and test.
+- **10 - 20 minutes:** Write notes, errors, decisions, and next steps.
 
 Do not start ten projects. Build one project and improve it every week.
 
