@@ -1,40 +1,68 @@
-# Week 3 — Observability and Cost Tracking
+# 📡 Week 11 — Observability and Cost Tracking
 
-**Days 75–81**
+> **Days 75–81 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜
 
-## Learn
+## 🎯 Mission
 
-- Traces
-- Logs
-- Metrics
-- Token usage
-- Latency
-- Cost per request
-- Failure reasons
+Make every request explainable: what happened, how long it took, what it cost, and where it failed.
 
-## Read
+## ✅ Outcomes
 
-- [LangSmith Observability](https://docs.langchain.com/langsmith/observability)
-- [OpenTelemetry Documentation](https://opentelemetry.io/docs/)
+You can trace a request across retrieval, model calls, tools, evaluation, and response delivery while protecting sensitive data.
 
-## Build
+## 🗺️ Daily roadmap
 
-Track:
+| Day | Focus | Build / evidence |
+| --- | --- | --- |
+| 75 | Observability design | Define events, spans, metrics, and retention. |
+| 76 | Structured logs | Add request and correlation IDs. |
+| 77 | Traces | Trace retrieval, model, tools, and evaluation. |
+| 78 | Metrics | Add latency, error, throughput, and quality metrics. |
+| 79 | Cost model | Calculate tokens and cost per request. |
+| 80 | Dashboards and alerts | Build a useful operator view. |
+| 81 | Privacy review | Redact secrets and sensitive document content. |
 
-- Prompt tokens
-- Completion tokens
-- Total cost
-- Tool calls
-- Retrieval latency
-- Model latency
-- Failed requests
-- Evaluation score per response
+## 📚 Learn
 
-Use correlation IDs so one request can be followed across retrieval, model calls, tools, evaluation, and the final response. Redact secrets and sensitive document content from logs.
+- Logs, metrics, traces, and correlation IDs
+- Span boundaries for LLM and tool calls
+- Token accounting and model pricing
+- p50, p95, and tail latency
+- Error budgets and operational alerts
+- PII, secret, and prompt-content redaction
 
-## Output
+## 🔗 Core resources
 
-A dashboard or log view that explains what happened inside the AI system and how much each request cost.
+- [OpenTelemetry — Documentation](https://opentelemetry.io/docs/)
+- [OpenTelemetry — Python](https://opentelemetry.io/docs/languages/python/)
+- [LangSmith — Observability](https://docs.langchain.com/langsmith/observability)
+- [Grafana — Observability](https://grafana.com/docs/grafana/latest/)
+- [Prometheus — Overview](https://prometheus.io/docs/introduction/overview/)
+- [OpenLLMetry](https://github.com/traceloop/openllmetry)
+
+## 🧪 Build lab: explainable request
+
+Track prompt tokens, completion tokens, total cost, tool calls, retrieval latency, model latency, failed requests, and evaluation score per response. Build a request detail view or structured log report.
+
+## 📦 Deliverables
+
+- Trace schema and correlation ID policy
+- Structured logging implementation
+- Metrics endpoint or dashboard
+- Cost calculation with model pricing version
+- Alert definitions
+- Redaction tests
+
+## 🚀 Stretch roadmap
+
+- Add distributed tracing across workers
+- Add sampling and retention policies
+- Add cost budgets per user or tenant
+- Add quality-based alerts, not only uptime alerts
+
+## 🏁 Definition of done
+
+An operator can investigate a slow, expensive, incorrect, or failed response without reproducing it blindly—and logs do not expose secrets.
 
 ---
 

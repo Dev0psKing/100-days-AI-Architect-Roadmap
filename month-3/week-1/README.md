@@ -1,36 +1,68 @@
-# Week 1 — Backend and API
+# 🌐 Week 9 — Backend and API
 
-**Days 61–67**
+> **Days 61–67 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜
 
-## Learn
+## 🎯 Mission
 
-- API design
-- Request validation
-- Streaming responses
-- Async jobs
-- Error handling
+Wrap the AI system in a reliable API with clear contracts, validation, streaming, health checks, and useful errors.
 
-## Read
+## ✅ Outcomes
 
-- [FastAPI First Steps](https://fastapi.tiangolo.com/tutorial/first-steps/)
-- [FastAPI User Guide](https://fastapi.tiangolo.com/tutorial/)
+You can expose the assistant through documented endpoints, validate requests, handle failures consistently, and separate API concerns from AI orchestration.
 
-## Build
+## 🗺️ Daily roadmap
 
-Create production-style endpoints:
+| Day | Focus | Build / evidence |
+| --- | --- | --- |
+| 61 | API design | Define resources, contracts, and error shapes. |
+| 62 | Chat endpoint | Implement `POST /chat`. |
+| 63 | Documents | Add upload and listing endpoints. |
+| 64 | Async work | Add evaluation jobs and status handling. |
+| 65 | Streaming | Stream assistant responses safely. |
+| 66 | Reliability | Add validation, timeouts, and health checks. |
+| 67 | API review | Publish OpenAPI examples and smoke tests. |
 
-- `POST /chat`
-- `POST /documents/upload`
-- `GET /documents`
-- `POST /evals/run`
-- `GET /health`
-- `GET /usage`
+## 📚 Learn
 
-Validate inputs, return consistent errors, stream chat responses where appropriate, and ensure health checks do not expose secrets.
+- REST resource design and versioning
+- Pydantic validation and typed contracts
+- Streaming and async request handling
+- Error taxonomy and correlation IDs
+- Health, readiness, and liveness checks
+- Authentication boundaries and rate limits
 
-## Output
+## 🔗 Core resources
 
-The assistant runs behind a clean API with documented request and response examples.
+- [FastAPI — First Steps](https://fastapi.tiangolo.com/tutorial/first-steps/)
+- [FastAPI — User Guide](https://fastapi.tiangolo.com/tutorial/)
+- [OpenAPI Specification](https://spec.openapis.org/oas/latest.html)
+- [Pydantic — Documentation](https://docs.pydantic.dev/latest/)
+- [OWASP — API Security Top 10](https://owasp.org/API-Security/)
+- [HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+## 🧪 Build lab: production-style API
+
+Implement `POST /chat`, `POST /documents/upload`, `GET /documents`, `POST /evals/run`, `GET /health`, and `GET /usage`. Return consistent errors, validate file types and sizes, and ensure health checks reveal no secrets.
+
+## 📦 Deliverables
+
+- FastAPI application
+- OpenAPI specification and examples
+- API integration tests
+- Error and status code guide
+- Health/readiness endpoints
+- Local API demo
+
+## 🚀 Stretch roadmap
+
+- Add authentication and tenant isolation
+- Add WebSocket or server-sent events
+- Add background queue workers
+- Add API versioning and pagination
+
+## 🏁 Definition of done
+
+A new developer can start the service, call every documented endpoint, understand errors, and run the integration tests without reading internal implementation details.
 
 ---
 

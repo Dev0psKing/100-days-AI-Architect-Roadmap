@@ -1,41 +1,68 @@
-# Week 2 — Tool Calling and MCP
+# 🛠️ Week 6 — Tool Calling and MCP
 
-**Days 38–44**
+> **Days 38–44 · Systems · Progress:** 🟦🟦🟦🟦🟦🟦⬜
 
-## Learn
+## 🎯 Mission
 
-- Function calling
-- Tool schemas
-- Tool selection
-- Tool safety
-- Model Context Protocol basics
+Give the assistant carefully bounded capabilities without allowing model output to become uncontrolled authority.
 
-## Read
+## ✅ Outcomes
 
-- [OpenAI Function Calling](https://developers.openai.com/api/docs/guides/function-calling)
-- [OpenAI Tools Guide](https://developers.openai.com/api/docs/guides/tools)
-- [Model Context Protocol Introduction](https://modelcontextprotocol.io/introduction)
+You can define typed tools, validate arguments, distinguish data from instructions, require confirmation, and expose or consume MCP tools safely.
 
-## Build
+## 🗺️ Daily roadmap
 
-Add tools to the assistant:
+| Day | Focus | Build / evidence |
+| --- | --- | --- |
+| 38 | Function calling | Add one read-only tool. |
+| 39 | Schemas | Validate required, optional, and enum fields. |
+| 40 | Tool routing | Test retrieval versus tool decisions. |
+| 41 | Permission model | Add allowlists and confirmation states. |
+| 42 | MCP concepts | Run a local MCP server or inspect an example. |
+| 43 | Abuse testing | Test prompt injection through tool output. |
+| 44 | Integration review | Publish tool contracts and traces. |
 
-- `search_docs(query)`
-- `get_document(id)`
-- `summarize_document(id)`
-- `create_ticket(summary)`
-- `calculate_cost(input)`
+## 📚 Learn
 
-Rules:
+- Tool schemas and argument validation
+- Tool selection and routing
+- Read-only versus write actions
+- Confirmation and human approval
+- Timeouts, retries, idempotency, and auditability
+- Model Context Protocol concepts and transports
 
-- Every tool has a strict schema.
-- Destructive or write actions require confirmation.
-- Tool output is data, not instructions.
-- The assistant explains which tool it selected and why.
+## 🔗 Core resources
 
-## Output
+- [OpenAI — Function Calling](https://developers.openai.com/api/docs/guides/function-calling)
+- [OpenAI — Tools Guide](https://developers.openai.com/api/docs/guides/tools)
+- [Model Context Protocol — Introduction](https://modelcontextprotocol.io/introduction)
+- [MCP — Official Documentation](https://modelcontextprotocol.io/docs)
+- [MCP — Example Servers](https://github.com/modelcontextprotocol/servers)
+- [Anthropic — Tool Use](https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview)
 
-The assistant can choose between retrieval and tool use, with tests for valid arguments, invalid arguments, denied actions, and confirmation flow.
+## 🧪 Build lab: safe assistant tools
+
+Implement `search_docs(query)`, `get_document(id)`, `summarize_document(id)`, `create_ticket(summary)`, and `calculate_cost(input)`. Treat tool output as untrusted data. Write tests for invalid arguments, denied actions, confirmation, timeout, and retry behavior.
+
+## 📦 Deliverables
+
+- Tool registry and JSON schemas
+- Permission matrix
+- Confirmation flow for writes
+- Tool error contract
+- Tool-choice evaluation cases
+- MCP integration note
+
+## 🚀 Stretch roadmap
+
+- Add OAuth or scoped service credentials
+- Add idempotency keys for writes
+- Add approval expiry and cancellation
+- Add tool latency and cost budgets
+
+## 🏁 Definition of done
+
+Every tool has a clear contract, limited permissions, observable execution, explicit failure behavior, and no destructive action without approval.
 
 ---
 

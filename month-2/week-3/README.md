@@ -1,39 +1,68 @@
-# Week 3 — Agent Workflows
+# 🤖 Week 7 — Agent Workflows
 
-**Days 45–51**
+> **Days 45–51 · Systems · Progress:** 🟦🟦🟦🟦🟦🟦🟦
 
-## Learn
+## 🎯 Mission
 
-- Routing
-- State
-- Planning
-- Retries
-- Human approval
-- Failure handling
+Design a predictable stateful workflow instead of wrapping one prompt in an “agent” label.
 
-## Read
+## ✅ Outcomes
 
-- [LangGraph Overview](https://docs.langchain.com/oss/python/langgraph/overview)
-- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+You can model state, route work, limit retries, add human approval, and explain every transition in the workflow.
 
-## Build
+## 🗺️ Daily roadmap
 
-Create a LangGraph flow:
+| Day | Focus | Build / evidence |
+| --- | --- | --- |
+| 45 | Workflow design | Draw nodes, edges, state, and failure paths. |
+| 46 | Intent routing | Implement data, action, and direct-answer routes. |
+| 47 | Retrieval loop | Add retrieval, generation, and quality checks. |
+| 48 | State and memory | Define typed state and bounded history. |
+| 49 | Retries and recovery | Add retry limits and fallback behavior. |
+| 50 | Human approval | Pause before risky actions. |
+| 51 | Trace review | Inspect runs and document tradeoffs. |
 
-1. Receive the user query.
-2. Classify intent.
-3. Decide whether data is needed.
-4. Retrieve context or reason directly.
-5. Generate an answer.
-6. Check answer quality.
-7. Retry retrieval when quality is insufficient.
-8. Return a final answer or request human approval.
+## 📚 Learn
 
-Add explicit state fields for the question, route, retrieved context, answer, quality result, retry count, and citations.
+- Deterministic routing and state machines
+- Stateful graph execution
+- Planning versus execution
+- Retry budgets and recovery
+- Human-in-the-loop workflows
+- Long-running jobs and resumability
 
-## Output
+## 🔗 Core resources
 
-A real multi-step assistant, not a single prompt wrapper. Document its nodes, transitions, retry limit, and failure paths.
+- [LangGraph — Overview](https://docs.langchain.com/oss/python/langgraph/overview)
+- [LangGraph — Workflows and Agents](https://docs.langchain.com/oss/python/langgraph/workflows-agents)
+- [Hugging Face — Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+- [Microsoft — AutoGen](https://microsoft.github.io/autogen/stable/)
+- [Temporal — Durable Execution](https://docs.temporal.io/)
+- [OpenAI — Agents SDK](https://openai.github.io/openai-agents-python/)
+
+## 🧪 Build lab: quality-gated LangGraph flow
+
+Implement: query → classify intent → retrieve or reason → generate → check quality → retry or finalize. Track question, route, context, answer, quality result, retry count, tool calls, citations, and approval state.
+
+## 📦 Deliverables
+
+- Workflow diagram
+- Typed state model
+- Node and transition implementation
+- Retry and fallback policy
+- Human approval example
+- Trace screenshots or exported run records
+
+## 🚀 Stretch roadmap
+
+- Add parallel retrieval branches
+- Add resumable long-running execution
+- Add queue-backed background jobs
+- Compare graph workflow with a simple router
+
+## 🏁 Definition of done
+
+For any run, you can explain what happened, why each route was selected, where it failed, and how the workflow stopped safely.
 
 ---
 
