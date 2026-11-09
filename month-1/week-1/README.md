@@ -1,6 +1,6 @@
 # 🧠 Week 1 - LLM Mental Model
 
-> **Days 1–7 · Foundations · Progress:** 🟦⬜⬜⬜⬜⬜⬜
+> **Days 1-7 · Foundations · Progress:** 🟦⬜⬜⬜⬜⬜⬜
 
 ## 🎯 Mission
 
