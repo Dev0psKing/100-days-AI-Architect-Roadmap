@@ -1,6 +1,6 @@
 # 🔐 Week 12 - Security and Guardrails
 
-> **Days 82–90 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
+> **Days 82–100 · Production · Progress:** 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
 ## 🎯 Mission
 
@@ -21,8 +21,18 @@ You can threat-model an AI application, test prompt injection, restrict tools, p
 | 86 | Abuse controls | Add rate limits, budgets, and safe fallbacks. |
 | 87 | Release hardening | Run security and regression suites. |
 | 88 | Deployment verification | Test health, rollback, secrets, and monitoring. |
-| 89 | Case study | Write architecture, tradeoffs, failures, and limits. |
-| 90 | Launch | Publish the demo, report, and next roadmap. |
+| 89 | Case study draft | Write architecture, tradeoffs, failures, and limits. |
+| 90 | Integration review | Run the complete application and evaluation flow. |
+| 91 | Documentation polish | Finalize setup instructions and troubleshooting guidance. |
+| 92 | Accessibility review | Check headings, links, diagrams, and learner clarity. |
+| 93 | Performance review | Record latency, cost, and quality baselines. |
+| 94 | Security review | Resolve release-blocking security findings. |
+| 95 | Demo preparation | Prepare the live walkthrough and supporting examples. |
+| 96 | Architecture presentation | Finalize the architecture diagram and design decisions. |
+| 97 | Evaluation report | Publish final metrics, limitations, and known failures. |
+| 98 | Case study finalization | Complete the lessons learned and next-version roadmap. |
+| 99 | Release rehearsal | Verify deployment, monitoring, rollback, and links. |
+| 100 | Launch | Publish the demo, report, and next roadmap. |
 
 ## 📚 Learn
 

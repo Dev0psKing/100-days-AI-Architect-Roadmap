@@ -1,6 +1,6 @@
 # Month 3 - Production
 
-**Days 61–90:** Ship something real and demonstrate production judgment.
+**Days 61–100:** Ship something real and demonstrate production judgment.
 
 ## Weeks
 
@@ -11,4 +11,4 @@
 
 ## Final launch window
 
-Use Days 85–90 to polish the application, publish the case study, record the demo, document limitations, and prepare the next-version roadmap.
+Use Days 85–100 to polish the application, publish the case study, record the demo, document limitations, and prepare the next-version roadmap.

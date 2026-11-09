@@ -1,10 +1,10 @@
-# 90 Day AI Architect Roadmap
+# 100 Day AI Architect Roadmap
 
 > **Created by Collins Uwabor**
 
 ## Core idea
 
-Don't learn AI randomly. Use one capstone project for all 90 days.
+Don't learn AI randomly. Use one capstone project for all 100 days.
 
 **Capstone project:** Build a production-ready AI assistant over your own docs, PDFs, repository, or cloud reports. It should support RAG, citations, tool calling, evaluations, tracing, deployment, and basic security.
 
@@ -12,7 +12,7 @@ Don't learn AI randomly. Use one capstone project for all 90 days.
 flowchart TD
     A[Day 0<br/>Pick Capstone] --> B[Days 1-30<br/>Foundations]
     B --> C[Days 31-60<br/>Systems]
-    C --> D[Days 61-90<br/>Production]
+    C --> D[Days 61-100<br/>Production]
     D --> E[Live AI App<br/>Case Study]
 
     B --> B1[LLM Basics<br/>Tokens]
@@ -51,8 +51,8 @@ Do not start ten projects. Build one project and improve it every week.
 | --- | ---: | --- | --- |
 | Foundations | 1 - 30 | LLMs, prompting, embeddings, semantic search, and RAG | Local Chat with My Docs app |
 | Systems | 31 - 60 | RAG quality, tools, MCP, agent workflows, and evaluations | Tested multi-step AI system |
-| Production | 61 - 90 | APIs, containers, CI/CD, observability, cost, and security | Deployable production-style app |
-| Launch | 85 - 90 | Demo, case study, architecture, limitations, and roadmap | Live AI app and portfolio evidence |
+| Production | 61 - 100 | APIs, containers, CI/CD, observability, cost, and security | Deployable production-style app |
+| Launch | 85 - 100 | Demo, case study, architecture, limitations, and roadmap | Live AI app and portfolio evidence |
 
 ## Month 1 - Foundations: Days 1 - 30
 
@@ -76,7 +76,7 @@ Move from scripts to a real AI system with safe tools, stateful workflows, and m
 
 **Month 2 milestone:** An AI system with tools, workflows, automated evaluations, regression tests, and documented quality thresholds.
 
-## Month 3 - Production: Days 61 - 90
+## Month 3 - Production: Days 61 - 100
 
 Ship something real and demonstrate production judgment.
 
@@ -104,7 +104,7 @@ The assistant should:
 
 ## Final launch package
 
-By Days 85 - 90, prepare:
+By Days 85 - 100, prepare:
 
 1. Live application link.
 2. GitHub repository or private demo repository.

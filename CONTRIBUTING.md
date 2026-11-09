@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping improve the 90-Day AI Architect Roadmap.
+Thank you for helping improve the 100-Day AI Architect Roadmap.
 
 ## Good contributions
 

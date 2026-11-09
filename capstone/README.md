@@ -33,7 +33,7 @@ flowchart TD
     L --> M[Answer with Citations]
 ```
 
-## Days 85–90: launch and case study
+## Days 85–100: launch and case study
 
 Prepare:
 
