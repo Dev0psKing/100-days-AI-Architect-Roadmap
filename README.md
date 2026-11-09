@@ -1,4 +1,4 @@
-# 90-Day AI Architect Roadmap
+# 90 Day AI Architect Roadmap
 
 > **Created by Collins Uwabor**
 
