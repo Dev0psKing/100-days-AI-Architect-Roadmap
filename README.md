@@ -126,3 +126,19 @@ By Days 85 - 90, prepare:
 - Do not hide failures, costs, or quality regressions.
 
 The goal is not just to learn AI. The goal is to become the engineer who can design, debug, ship, and explain AI systems.
+
+## Contributing
+
+This is an open-source learning roadmap, and contributions are welcome. You can:
+
+- Fix an inaccurate or outdated link.
+- Improve an explanation or exercise.
+- Add a useful course, book, tutorial, or practice project.
+- Report unclear instructions or broken navigation.
+- Share an evidence-based improvement to the learning sequence.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request. By participating, you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## License
+
+This project is released under the [MIT License](LICENSE).
